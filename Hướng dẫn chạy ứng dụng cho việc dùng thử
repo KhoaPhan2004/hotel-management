@@ -2,5 +2,6 @@ GHI CHÚ : phải biết có ứng dụng SQL server và visual 2022 trên máy 
 bước 1 : vào file Data mở file qlykhachsan.sql và chạy nó bằng SQL server để tạo database.
 bước 2 : nếu bước 1 không tạo dc database thì mở file SQLDoAn và chạy từng file trong đó theo thứ tự SQLDoan.sql -> Store.sql -> DuLieuTable.sql.
 bước 3 : chạy file SetUpKHACHSAN.msi để cài ứng dụng quản lý khách sạn về máy.
-bước 4 : mở ứng dụng quản lý khách sạn đăng nhập với tài khoản là TK01 và mật khẩu là 123456.
-bước 5 : chúc mọi người trải nghiệm vui vẻ.
+bước 4 : mở ứng dụng quản lý khách sạn màn hình thiết lập SQL thì nhập tên của SQLserver của bạn và chọn database thì chọn qlykhachsan
+bước 5 : mở ứng dụng quản lý khách sạn đăng nhập với tài khoản là TK01 và mật khẩu là 123456.
+bước 6 : chúc mọi người trải nghiệm vui vẻ.
